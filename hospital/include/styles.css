@@ -1,0 +1,43 @@
+* {
+    margin:0;
+    padding: 0;
+    
+}
+.hero-image {
+    height: 500px;
+    width:100%;
+   
+
+}
+
+.hero-heading {
+    padding-top: 150px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    animation: fadeIn ease 4s;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+.button-image {
+    height: 250px;
+    width: 100%;
+}
+
+.row {
+  margin-left: 100px;
+}
+
+
+
+
+
+
+
+
